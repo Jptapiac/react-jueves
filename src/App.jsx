@@ -1,5 +1,6 @@
 
 import './App.css'
+import Saludo from './Saludo'
 
 function Saludo(){
  return <h2>Hola,Bienvenido a mi aplicación react!</h2>
